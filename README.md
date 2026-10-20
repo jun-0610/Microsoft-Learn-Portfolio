@@ -90,7 +90,7 @@ https://learn.microsoft.com/
 
 Microsoft Learn Profile：
 
-（放你的公開 Profile 連結）
+(https://learn.microsoft.com/zh-tw/users/34226923/)
 
 ---
 
